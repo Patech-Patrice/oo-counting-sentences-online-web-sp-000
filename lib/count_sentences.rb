@@ -6,8 +6,6 @@ class String
     self.end_with?(".")
   end
     
-    
-  end
 
   def question?
 
